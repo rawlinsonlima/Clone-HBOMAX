@@ -70,9 +70,8 @@ Você pode acessar ao resultado final do projeto [clicando aqui](https://michele
 <h2 id="author">💻 Autor</h2>
 <p>
     <img align=left margin=10 width=80 src="./assets/images/1502930743261.png/>
-    <p>&nbsp&nbsp&nbspRawlinson Lima<br>
+    <p>&nbsp&nbsp&nbsp"Rawlinson Lima"<br>
     &nbsp&nbsp&nbsp<a href="http://instagram.com/rawlinson_lima">Instagram</a>&nbsp;|&nbsp;<a href="https://github.com/rawlinsonlima">GitHub</a>&nbsp;|&nbsp;<a href="https://www.linkedin.com/in/rawlinson-lima-62322036/">LinkedIn</a>&nbsp;</p>
 </p>
 <br/><br/>
 <p>
-
